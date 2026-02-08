@@ -1,3 +1,4 @@
+<img src="https://bassettgraphics.com/img/RemoveBG.jpg" width="500px" height="auto" /><br>
 # RemoveBG-ENG
 A fork of a great Remove Background AI tool using rembg by JamesH<br>
 This is for GIMP 3.0+ Flatpak version<br>
