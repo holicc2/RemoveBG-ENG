@@ -17,15 +17,15 @@ pipx ensurepath<br>
 // Highly recommended to just use rembg[cli]<br>
 pipx install "rembg[cli]"<br>
 <br>
-// Other option: CPU
+// Other option: CPU<br>
 // pipx install "rembg[cpu]" # for library<br>
 // pipx install "rembg[cpu,cli]" # for library + cli<br>
 <br>
-// Other option: NVIDIA GPU
+// Other option: NVIDIA GPU<br>
 // pipx install "rembg[gpu]" # for library<br>
 // pipx install "rembg[gpu,cli]" # for library + cli<br>
 <br>
-// Other option: AMD GPU
+// Other option: AMD GPU<br>
 // pipx install "rembg[rocm]" # for library<br>
 // pipx install "rembg[rocm,cli]" # for library + cli<br>
 <br>
